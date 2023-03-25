@@ -1,0 +1,32 @@
+
+.Front-container{
+    background-color: rgb(21, 55, 206);
+    width : 100%;
+    height: 42.5vh;
+    border: 0px;
+    padding: 12vw;
+}
+form{
+    text-align: center;
+   padding: 30px;
+    border-radius: 10px;
+    width: 40vw;
+    height: 40vh;
+    background-color: aliceblue;
+    margin-left: 15vw;
+    /* margin-top: 20vh ; */
+    
+}
+
+div{
+    padding: 5px;
+}
+.subbmit{
+    background-color: blue;
+    color: white;
+    margin-top: 2vh;
+}
+.register{
+    color : rgb(90, 90, 247);
+    font-weight: 100;
+}
